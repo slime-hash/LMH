@@ -294,7 +294,7 @@ html body .wrapper footer .made-by .span:hover {
 }
 @media (max-width: 400px) {
   html body .wrapper main .stuff .content .content__items {
-    height: 450px;
+    height: 480px;
     width: 280px;
   }
   html body .wrapper footer .footer__row {
