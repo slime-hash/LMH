@@ -272,7 +272,7 @@ html body .wrapper footer .made-by .span:hover {
     flex-direction: column;
   }
   html body .wrapper main .stuff .content .content__items {
-    height: 480px;
+    height: 540px;
     width: 380px;
   }
   html body .wrapper main .stuff .content .content__items:last-child {
